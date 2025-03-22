@@ -1,0 +1,1 @@
+Desarrollo de APIREST usando buenas practicas, se utilizaron validaciones, Base de datos relacional en MySQL, se implemento SEQUELIZE pra gestionar los registros mediante el ORM. Se caarga el archivo .env para que puedan ver las variables de entorno correspondientes a la base de datos por si a partir de esta API, deciden hacer algo
